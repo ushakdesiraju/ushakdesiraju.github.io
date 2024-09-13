@@ -15,10 +15,6 @@ main:
   - name: Achievements
     url: '#achievements'
     weight: 80
-
-   - name: Photos
-    url: '#photos'  # Correct the link to point to the new page
-    weight: 170
     
   - name: Contact
     url: '#contact'
