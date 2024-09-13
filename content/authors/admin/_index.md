@@ -39,9 +39,9 @@ education:
   - course: Diploma in Advanced Software Technology 
     institution: CMS LIMITED
     year: 2000
-  - course: MSc in Computer Science and Engineering 
-    institution: JRN RAJASTHAN VIDYAPEETH UNIVERSITY, UDAIPUR 
-    year: 2006
+  - course: BSc in Computer Science 
+    institution: NAGARJUNA UNIVERSITY
+    year: 1999
 
  
 
