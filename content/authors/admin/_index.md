@@ -18,11 +18,11 @@ bio: Experienced Computer Science lecturer and educational administrator with ov
 
 # Interests to show in About widget
 interests:
-- Data Science
-- Computational Social Science
-- Natural Language Processing 
-- Machine Learning
-- Data Engineering
+- C, C++, Java, Core Python
+- Web Devlopment
+- Project Management
+- Student Placements
+- Computer Science Education
 
 # Education to show in About widget
 education:
