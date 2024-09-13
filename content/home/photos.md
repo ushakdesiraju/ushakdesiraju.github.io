@@ -1,20 +1,16 @@
 ---
-widget: gallery
+widget: blank
 headless: true
-title: Photos
-weight: 90
 design:
-  # Choose how many columns the gallery should have.
+  # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 
-# Gallery settings
-gallery:
-  - image: /images/photo1.jpg
-    caption: "Photo 1 caption"
-  - image: /images/photo2.jpg
-    caption: "Photo 2 caption"
-  - image: /images/photo3.jpg
-    caption: "Photo 3 caption"
+# ... Put Your Section Options Here (title etc.) ...
+title: Achievements
+weight: 70
+
 ---
 
-# This is the photos section where you can showcase a collection of images.
+* Served as an Internal and External Examiner at Nagarjuna University from 2007 to 2012.
+* Set question papers for various autonomous colleges under Nagarjuna University, including DNR College, Bhimavaram, and JMJ College, Tenali.
+* Published several guides and test papers for B.Sc. and B.Com. degree courses for SK University and SV University, in collaboration with [Maruthi Publications, Guntur](http://www.maruthipublications.com).
