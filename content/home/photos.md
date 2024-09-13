@@ -1,10 +1,9 @@
 ---
 title: Photos
 date: 2024-09-14
-type: page
+type: widget
+widget: gallery
+headless: true  # This prevents it from being a standalone page, but allows it to be a widget
 ---
 
-# Photos
-
-Here you can showcase some important moments or achievements through a collection of photos.
-
+# Add a gallery or photo section here.
