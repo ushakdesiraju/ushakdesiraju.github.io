@@ -53,7 +53,7 @@ experience:
 
   - title:  Faculty in Computer Science
     company: APTECH, Vijayawada
-    company_url: 'https://warwick.ac.uk/research/data-science/warwick-data/dssgx/'
+    company_url: 'https://www.shiksha.com/college/aptech-computer-education-vijayawada-44731/'
     company_logo:
     location: Vijayawada, India
     date_start: '2003-06-07'
