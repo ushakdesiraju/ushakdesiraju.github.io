@@ -46,13 +46,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:pr440@snu.edu.in'
+  link: 'mailto:ushakdesiraju@gmail.com'
 - icon: github
   icon_pack: fab
-  link: https://github.com/prakharrathi25
+  link: https://github.com/ushakdesiraju
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/prakhar-rathi/
+  link: https://www.linkedin.com/in/desiraju-usha-kumari-53948b80/
 - icon: kaggle
   icon_pack: fab
   link: https://www.kaggle.com/prakharrathi25/
