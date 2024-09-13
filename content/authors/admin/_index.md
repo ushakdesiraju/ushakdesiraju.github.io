@@ -6,7 +6,7 @@ title: Anumanchi Usha Kumari
 superuser: true
 
 # Role/position/tagline
-role: Data Scientist
+role: Computer Science Lecturer & Educational Administrator
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.americanexpress.com/en-in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a data scientist with a passion for creating innovative solutions to complex problems.
+bio: Experienced Computer Science lecturer and educational administrator with over 15 years of dedication to teaching, departmental leadership, and student placement services.
 
 # Interests to show in About widget
 interests:
