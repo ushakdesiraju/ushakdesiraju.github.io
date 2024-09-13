@@ -123,7 +123,7 @@ experience:
       * Collaborated with a team of 11 doctoral researchers globally to build predictive models with explainable AI approaches
       * Successfully analysed two years of bakery sales and weather data from 5000 sites to build predictive models and provided counterfactual explanations
   
-  - title: Financial ML Intern
+  - title: Financjhvhj
     company: Indian School of Business
     company_url: 'https://www.isb.edu/en/research-thought-leadership/research-centres-institutes/centre-for-analytical-finance.html'
     company_logo: org-isb
