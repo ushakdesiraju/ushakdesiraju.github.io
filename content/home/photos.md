@@ -1,9 +1,20 @@
 ---
-title: Photos
-date: 2024-09-14
-type: widget
 widget: gallery
-headless: true  # This prevents it from being a standalone page, but allows it to be a widget
+headless: true
+title: Photos
+weight: 90
+design:
+  # Choose how many columns the gallery should have.
+  columns: '2'
+
+# Gallery settings
+gallery:
+  - image: /images/photo1.jpg
+    caption: "Photo 1 caption"
+  - image: /images/photo2.jpg
+    caption: "Photo 2 caption"
+  - image: /images/photo3.jpg
+    caption: "Photo 3 caption"
 ---
 
-# Add a gallery or photo section here.
+# This is the photos section where you can showcase a collection of images.
