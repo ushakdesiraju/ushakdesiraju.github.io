@@ -49,19 +49,17 @@ experience:
         * Conducted laboratory classes and guided students in project work and practical sessions.
         * Achieved high academic success rates among students in the department.
 
-  - title: Analyst Intern
-    company: American Express
-    company_url: 'https://www.americanexpress.com/en-in/'
-    company_logo: org-amex
-    location: Gurugram, India
-    date_start: '2022-01-17'
-    date_end: '2022-06-15'
+  - title: Faculty in Computer Science
+    company: APTECH, Vijayawada
+    company_url:'https://www.shiksha.com/college/aptech-computer-education-vijayawada-44731/admission'
+    company_logo:
+    location: Vijayawada, India
+    date_start: '2003-01-01'
+    date_end: '2006-01-01'
     description: |2-
-    
-        * Part of the Global Optimisation and Call Management (GOCM) team which serves both inbound and outbound calls from our members in the JAPA, EMEA and Americas markets, along with managing the customer support centres globally.
-        * Developed and deployed machine learning models to quantify the factors that affect the key metrics within the GOCM team. These models are able to forecast the metric outcomes with a mean average percentage error of 7\%. 
-        * Standardized the machine learning modelling and deployment practices within the GOCM to provide a roadmap for similar projects in the future, through extensive documentation and curated tutorials.
-
+        * Provided training in essential programming languages including C, C++, and JAVA.
+        * Delivered comprehensive lessons in MS Office, DBMS, and other key computing subjects.
+        * Focused on practical lab sessions, ensuring students gained hands-on experience in software development.
 
   - title: Data Science for Social Good Fellow
     company: University of Warwick
