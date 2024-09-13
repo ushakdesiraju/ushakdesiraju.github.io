@@ -49,17 +49,7 @@ experience:
         * Conducted laboratory classes and guided students in project work and practical sessions.
         * Achieved high academic success rates among students in the department.
 
-  - title: Faculty in Computer Science
-    company: APTECH, Vijayawada
-    company_url:'https://www.shiksha.com/college/aptech-computer-education-vijayawada-44731/admission'
-    company_logo:
-    location: Vijayawada, India
-    date_start: '2003-01-01'
-    date_end: '2006-01-01'
-    description: |2-
-        * Provided training in essential programming languages including C, C++, and JAVA.
-        * Delivered comprehensive lessons in MS Office, DBMS, and other key computing subjects.
-        * Focused on practical lab sessions, ensuring students gained hands-on experience in software development.
+
 
   - title: Data Science for Social Good Fellow
     company: University of Warwick
