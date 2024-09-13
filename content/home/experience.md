@@ -60,9 +60,9 @@ experience:
     date_end: '2004-08-27'
     description: |2-
     
-        * Worked with the German Federal Ministry of Economics and Technology on a project to strengthen their economic forecasts during times of shocks using machine learning Methods.
-        * Built vector autoregression models to forecast quarterly unemployment rates at the county level in Germany. 
-        * Our novel method beat the existing forecasting methods and the popular time series models applied to this problem. The details of our solution can be found on the [Github page](https://github.com/DSSGxUK/bmwi). 
+        * Provided training in essential programming languages including C, C++, and JAVA.
+        * Delivered comprehensive lessons in MS Office, DBMS, and other key computing subjects.
+        * Focused on practical lab sessions, ensuring students gained hands-on experience in software development.
 
  
 
