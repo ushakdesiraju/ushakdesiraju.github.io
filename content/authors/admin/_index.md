@@ -41,7 +41,7 @@ education:
   - course: Diploma in Advanced Software Technology
     institution: CMS LIMITED
     year: 2000
-    - course: BSc in Computer Science
+  - course: BSc in Computer Science
     institution: NAGARJUNA UNIVERSITY
     year: 1999
 
