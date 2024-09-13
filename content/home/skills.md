@@ -19,21 +19,37 @@ feature:
 - icon: "skills/python-5"
   icon_pack: custom
   name: Python
-- icon: chart-line
-  icon_pack: fas
-  name: Analytics
-- icon: language
-  icon_pack: fas
-  name: Natural Language Processing
 - icon: database
-  name: SQL
   icon_pack: fas
-- icon: "skills/pytorch"
-  icon_pack: "custom"
-  name: PyTorch
-- icon: "skills/keras"
-  icon_pack: "custom"
-  name: Keras
+  name: SQL
+- icon: code
+  icon_pack: fas
+  name: Data Structures and Algorithms
+- icon: "skills/java"
+  icon_pack: custom
+  name: Java
+- icon: "skills/c"
+  icon_pack: custom
+  name: C
+- icon: "skills/cplusplus"
+  icon_pack: custom
+  name: C++
+- icon: network-wired
+  icon_pack: fas
+  name: Computer Networking
+- icon: desktop
+  icon_pack: fas
+  name: Operating Systems (OS)
+- icon: globe
+  icon_pack: fas
+  name: Web Technology
+- icon: file-alt
+  icon_pack: fas
+  name: DBMS
+- icon: file-word
+  icon_pack: fas
+  name: MS Office
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
