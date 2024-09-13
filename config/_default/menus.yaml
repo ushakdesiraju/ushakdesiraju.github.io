@@ -18,7 +18,7 @@ main:
 
    - name: Photos
     url: '#photos'  # Correct the link to point to the new page
-    weight: 90
+    weight: 170
     
   - name: Contact
     url: '#contact'
