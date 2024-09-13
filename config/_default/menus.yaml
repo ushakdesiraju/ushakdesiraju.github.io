@@ -16,7 +16,7 @@ main:
     url: '#achievements'
     weight: 80
     
- - name: Photos
+ - name: Blog
     url: '#posts'
     weight: 50
     
