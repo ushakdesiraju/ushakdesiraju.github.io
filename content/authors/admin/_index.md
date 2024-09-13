@@ -82,7 +82,7 @@ social:
 email: "ushakdesiraju@gmail.com"
 
 # Highlight the author in author lists? (true/false)
-# highlight_name: false
+highlight_name: false
 ---
 
 I am a data scientist with a passion for creating innovative solutions to complex problems. I am a graduate from Shiv Nadar University, India. I majored in Computer Science Engineering with a minor in Economics.
