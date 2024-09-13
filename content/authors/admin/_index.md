@@ -33,9 +33,9 @@ education:
   - course: Mphil in Computer Science
     institution: PERIYAR UNIVERSITY, SALEM
     year: 2007
-  - course: Summer Institute in Computational Social Science 
-    institution: International Institute of Information Technology, Hyderabad 
-    year: 2022
+  - course: MSc in Computer Science and Engineering 
+    institution: JRN RAJASTHAN VIDYAPEETH UNIVERSITY, UDAIPUR 
+    year: 2006
 
  
 
