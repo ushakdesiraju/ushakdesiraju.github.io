@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: 2 Years
+date_format: Jan 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -22,13 +22,13 @@ date_format: 2 Years
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Lecturer in computer science & Placment Incharge
-    company: Nalanda University
-    company_url: 'https://ndc.edu.in/'
-    company_logo: org-nld
-    location: Vijayawada, India
-    date_start: 2 Years
-     
+  - title: Data Scientist 
+    company: American Express
+    company_url: 'https://www.americanexpress.com/en-in/'
+    company_logo: org-amex
+    location: Gurugram, India
+    date_start: '2022-08-02'
+    date_end: 
     description: |2-
     
         * Part of the Global Optimisation and Call Management (GOCM) team which serves both inbound and outbound calls from our members in the JAPA, EMEA and Americas markets, along with managing the customer support centres globally.
@@ -123,7 +123,7 @@ experience:
       * Collaborated with a team of 11 doctoral researchers globally to build predictive models with explainable AI approaches
       * Successfully analysed two years of bakery sales and weather data from 5000 sites to build predictive models and provided counterfactual explanations
   
-  - title: Financjhvhj
+  - title: Financial ML Intern
     company: Indian School of Business
     company_url: 'https://www.isb.edu/en/research-thought-leadership/research-centres-institutes/centre-for-analytical-finance.html'
     company_logo: org-isb
