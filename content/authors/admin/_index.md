@@ -29,6 +29,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+#   - course: MSc, Financial Engineering
+#     institution: WorldQuant University
+#     year: 2022-Present
    - course: Mphil in Computer Science
      institution: PERIYAR UNIVERSITY, SALEM
      year: 2007
@@ -41,8 +44,6 @@ education:
     - course: BSc in Computer Science
     institution: NAGARJUNA UNIVERSITY
     year: 1999
-
- 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
