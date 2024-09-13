@@ -6,7 +6,7 @@ design:
   columns: '2'
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Achievements
+title: Photos
 weight: 70
 
 ---
