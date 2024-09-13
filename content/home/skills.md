@@ -25,14 +25,14 @@ feature:
 - icon: code
   icon_pack: fas
   name: Data Structures and Algorithms
-- icon: "skills/java"
-  icon_pack: custom
+- icon: coffee
+  icon_pack: fas
   name: Java
-- icon: fa-code
-  icon_pack: custom
+- icon: file-code
+  icon_pack: fas
   name: C
-- icon: "skills/cplusplus"
-  icon_pack: custom
+- icon: cogs
+  icon_pack: fas
   name: C++
 - icon: network-wired
   icon_pack: fas
