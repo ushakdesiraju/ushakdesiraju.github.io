@@ -85,13 +85,10 @@ email: "ushakdesiraju@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+I am a dedicated Computer Science Lecturer and Educational Administrator with over 10 years of experience in higher education. Throughout my career, I have had the privilege of guiding and mentoring countless students in their academic journeys. I began as a lecturer and quickly rose to become the Head of the Department at Hindu University, Guntur, where I took on leadership responsibilities at an early stage in my career. Later, I founded a small institute and then joined Nalanda as a lecturer, where I proudly achieved the highest pass rate the university has ever recorded. Additionally, I served as the placements in charge, successfully placing numerous students in their professional careers.
 
-I am a data scientist with a passion for creating innovative solutions to complex problems. I am a graduate from Shiv Nadar University, India. I majored in Computer Science Engineering with a minor in Economics.
+Beyond my professional work, I am a devoted mother of two children, and I find joy in spending time nurturing plants and embracing devotional practices. I believe in the power of education to transform lives and strive to leave a positive impact on both my students and my community.
 
-Currently, I am working as a Data Scientist with the Global Optimization and Call Management (GOCM) team at [American Express](https://www.americanexpress.com/).
 
-Previously, I was working as a research intern with the [Inria-Modal Group](https://www.inria.fr/en) to identify and isolate the causes of suicides in Nord-Pas de Calais region in France using statistical modelling and spatial econometrics. Last summer, I worked as a [Data Science for Social Good fellow](https://warwick.ac.uk/research/data-science/warwick-data/dssgx/) at the University of Warwick in collaboration with the German Federal Minsitry for Economic Affairs (BMWK). I also dabble in Machine Learning Engineering as an open-source collaborator at the [AI4Bharat Lab at IIT-Madras](https://ai4bharat.org/). 
-
-When I am not in front of a computer screen, I enjoy hiking to remote lands and cycling. I am always open to a match of lawn tennis or badminton. You can often find me reading Jeffrey Archer or humming to The Lumineers. I love indie and rock music ♪. You can know me better from my [music](https://open.spotify.com/playlist/3NY2TolyTvvV8TmGrbxgRd?si=3696e704c93b4345). In my last, Myers-Briggs personality test, I tested as an [ENTJ](https://www.16personalities.com/entj-personality).
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}} resumé {{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}} résumé {{< /staticref >}}.
+ 
