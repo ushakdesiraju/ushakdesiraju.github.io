@@ -16,10 +16,6 @@ main:
     url: '#achievements'
     weight: 80
     
- - name: Blog
-    url: '#posts'
-    weight: 50
-    
   - name: Contact
     url: '#contact'
     weight: 100
