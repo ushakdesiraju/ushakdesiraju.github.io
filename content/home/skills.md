@@ -28,7 +28,7 @@ feature:
 - icon: "skills/java"
   icon_pack: custom
   name: Java
-- icon: "skills/c"
+- icon: fa-code
   icon_pack: custom
   name: C
 - icon: "skills/cplusplus"
