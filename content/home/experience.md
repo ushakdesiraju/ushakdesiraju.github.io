@@ -23,10 +23,10 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Lecturer in computer science & Placment Incharge
-    company: American Express
-    company_url: 'https://www.americanexpress.com/en-in/'
-    company_logo: org-amex
-    location: Gurugram, India
+    company: Nalanda University
+    company_url: 'https://ndc.edu.in/'
+    company_logo: org-nld
+    location: Vijayawada, India
     date_start: '2017-01-01'
     date_end: '2019-01-01'
     description: |2-
