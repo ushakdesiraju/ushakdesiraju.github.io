@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Prakhar Rathi
+title: Anumanchi Usha Kumari
 
 # Is this the primary user of the site?
 superuser: true
