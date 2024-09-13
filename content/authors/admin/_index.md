@@ -36,9 +36,9 @@ education:
   - course: MSc in Computer Science and Engineering 
     institution: JRN RAJASTHAN VIDYAPEETH UNIVERSITY, UDAIPUR 
     year: 2006
-  - course: MSc in Computer Science and Engineering 
-    institution: JRN RAJASTHAN VIDYAPEETH UNIVERSITY, UDAIPUR 
-    year: 2006
+  - course: Diploma in Advanced Software Technology 
+    institution: CMS LIMITED
+    year: 2000
   - course: MSc in Computer Science and Engineering 
     institution: JRN RAJASTHAN VIDYAPEETH UNIVERSITY, UDAIPUR 
     year: 2006
