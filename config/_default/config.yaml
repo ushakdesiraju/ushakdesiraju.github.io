@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Prakhar Rathi # Website name
-baseurl: 'https://ushakdesiraju.github.io/' # Website URL
-copyright: '© 2022 Prakhar Rathi' # Footer text, e.g. '© {year} Me'
+baseurl: 'https://ushakdesiraju.netlify.app/' # Website URL
+copyright: '© 2024 Anumanchi Usha Kumari' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
