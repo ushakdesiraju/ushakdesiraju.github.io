@@ -17,8 +17,8 @@ main:
     weight: 80
     
  - name: Photos
-    url: '#photos'
-    weight: 65
+    url: '#posts'
+    weight: 50
     
   - name: Contact
     url: '#contact'
