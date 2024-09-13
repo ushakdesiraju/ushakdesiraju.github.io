@@ -18,7 +18,7 @@ bio: Experienced Computer Science lecturer and educational administrator with ov
 
 # Interests to show in About widget
 interests:
-- C, C++, Java, Core Python
+- Programming languages
 - Web Devlopment
 - Project Management
 - Student Placements
