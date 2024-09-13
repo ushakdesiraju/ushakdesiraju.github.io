@@ -30,9 +30,9 @@ education:
 #   - course: MSc, Financial Engineering
 #     institution: WorldQuant University
 #     year: 2022-Present
-  - course: B.Tech in Computer Science and Engineering
-    institution: Shiv Nadar University
-    year: 2018-2022
+  - course: Mphil in Computer Science
+    institution: PERIYAR UNIVERSITY, SALEM
+    year: 2007
   - course: Summer Institute in Computational Social Science 
     institution: International Institute of Information Technology, Hyderabad 
     year: 2022
