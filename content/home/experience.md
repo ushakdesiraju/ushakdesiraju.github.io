@@ -22,18 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Data Scientist 
-    company: American Express
-    company_url: 'https://www.americanexpress.com/en-in/'
-    company_logo: org-amex
-    location: Gurugram, India
-    date_start: '2022-08-02'
-    date_end: 
+  - title: Lecturer in computer science & Placment Incharge
+    company: Nalanda University
+    company_url: 'https://ndc.edu.in/'
+    company_logo: org-nld
+    location: Vijayawada, India
+    date_start: '2017-01-01'
+    date_end: '2019-01-01'
     description: |2-
     
-        * Part of the Global Optimisation and Call Management (GOCM) team which serves both inbound and outbound calls from our members in the JAPA, EMEA and Americas markets, along with managing the customer support centres globally.
-        * Led the machine learning and forecasting efforts within the GOCM team to support the operations team in their real-time call volume handling. 
-        * Helped the Complaints segment to forecast their complaint volumes for the next quarter and developed a model to recommend a staffing strategy, which led to the creation of staffing plans for the EMEA, Americas and APAC regions for the next quarter.  
+        * Taught computer science subjects and handled laboratory classes, focusing on practical skills development.
+        * Achieved the highest pass rate in the university's history during tenure.
+        * Successfully managed the placement cell, guiding and helping students secure positions in various industries.
 
 
   - title: Machine Learning Engineer
