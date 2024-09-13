@@ -6,20 +6,20 @@
 main:
   - name: Home
     url: '#about'
-    weight: 15
+    weight: 20
   - name: Experience
     url: '#experience'
-    weight: 20
+    weight: 35
     
   - name: Achievements
     url: '#achievements'
-    weight: 40
+    weight: 50
   - name: Community
     url: '#community'
-    weight: 70
+    weight: 80
   - name: Contact
     url: '#contact'
-    weight: 75
+    weight: 85
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
