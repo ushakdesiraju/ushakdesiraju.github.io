@@ -51,8 +51,8 @@ experience:
 
 
 
-  - title: Data Science for Social Good Fellow
-    company: University of Warwick
+  - title:  Faculty in Computer Science
+    company: APTECH, Vijayawada
     company_url: 'https://warwick.ac.uk/research/data-science/warwick-data/dssgx/'
     company_logo:
     location: Coventry, United Kingdom
