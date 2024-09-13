@@ -7,7 +7,7 @@ design:
 
 # ... Put Your Section Options Here (title etc.) ...
 title: Photos
-weight: 70
+weight: 170
 
 ---
 
