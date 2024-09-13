@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Anumanchi Usha Kumari
+title: Prakhar Rathi
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Computer Science Lecturer & Educational Administrator
+role: Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,17 +14,15 @@ organizations:
   url: https://www.americanexpress.com/en-in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Experienced Computer Science lecturer and educational administrator with over 15 years of dedication to teaching, departmental leadership, and student placement services.
+bio: I am a data scientist with a passion for creating innovative solutions to complex problems.
 
 # Interests to show in About widget
 interests:
-- C, C++
-- Java
-- Web Devlopment
-- Core Python
-- Project Management
-- Student Placements
-- Computer Science Education
+- Data Science
+- Computational Social Science
+- Natural Language Processing 
+- Machine Learning
+- Data Engineering
 
 # Education to show in About widget
 education:
@@ -32,18 +30,14 @@ education:
 #   - course: MSc, Financial Engineering
 #     institution: WorldQuant University
 #     year: 2022-Present
-   - course: Mphil in Computer Science
-     institution: PERIYAR UNIVERSITY, SALEM
-     year: 2007
-  - course: MSc in Computer Science and Engineering
-    institution: JRN RAJASTHAN VIDYAPEETH UNIVERSITY, UDAIPUR
-    year: 2006
-  # - course: Diploma in Advanced Software Technology
-  # institution: CMS LIMITED
-  #  year: 2000
-  - course: BSc in Computer Science
-    institution: NAGARJUNA UNIVERSITY
-    year: 1999
+  - course: B.Tech in Computer Science and Engineering
+    institution: Shiv Nadar University
+    year: 2018-2022
+  - course: Summer Institute in Computational Social Science 
+    institution: International Institute of Information Technology, Hyderabad 
+    year: 2022
+
+ 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -52,25 +46,25 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ushakdesiraju@gmail.com'
+  link: 'mailto:pr440@snu.edu.in'
 - icon: github
   icon_pack: fab
-  link: https://github.com/ushakdesiraju
+  link: https://github.com/prakharrathi25
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/desiraju-usha-kumari-53948b80/
-# - icon: kaggle
-#  icon_pack: fab
-#  link: https://www.kaggle.com/prakharrathi25/
-# - icon: twitter
- # icon_pack: fab
- # link: https://twitter.com/prakharrathi14
-#- icon: medium 
-#  icon_pack: fab
-#  link: https://medium.com/@prakharrathi
-# - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
- # icon_pack: ai
- # link: https://scholar.google.com/citations?user=2F6ZdIIAAAAJ&hl=en
+  link: https://www.linkedin.com/in/prakhar-rathi/
+- icon: kaggle
+  icon_pack: fab
+  link: https://www.kaggle.com/prakharrathi25/
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/prakharrathi14
+- icon: medium 
+  icon_pack: fab
+  link: https://medium.com/@prakharrathi
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=2F6ZdIIAAAAJ&hl=en
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -80,7 +74,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ushakdesiraju@gmail.com"
+email: "pr440@snu.edu.in"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
