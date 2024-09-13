@@ -53,18 +53,18 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/desiraju-usha-kumari-53948b80/
-- icon: kaggle
-  icon_pack: fab
-  link: https://www.kaggle.com/prakharrathi25/
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/prakharrathi14
-- icon: medium 
-  icon_pack: fab
-  link: https://medium.com/@prakharrathi
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=2F6ZdIIAAAAJ&hl=en
+#  - icon: kaggle
+#   icon_pack: fab
+#   link: https://www.kaggle.com/prakharrathi25/
+#  - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/prakharrathi14
+# - icon: medium 
+#   icon_pack: fab
+#   link: https://medium.com/@prakharrathi
+# - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#   icon_pack: ai
+#   link: https://scholar.google.com/citations?user=2F6ZdIIAAAAJ&hl=en
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
