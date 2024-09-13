@@ -55,9 +55,9 @@ experience:
     company: APTECH, Vijayawada
     company_url: 'https://warwick.ac.uk/research/data-science/warwick-data/dssgx/'
     company_logo:
-    location: Coventry, United Kingdom
-    date_start: '2021-06-07'
-    date_end: '2021-08-27'
+    location: Vijayawada, India
+    date_start: '2003-06-07'
+    date_end: '2004-08-27'
     description: |2-
     
         * Worked with the German Federal Ministry of Economics and Technology on a project to strengthen their economic forecasts during times of shocks using machine learning Methods.
