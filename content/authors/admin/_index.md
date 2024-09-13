@@ -74,7 +74,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "pr440@snu.edu.in"
+email: "ushakdesiraju@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
